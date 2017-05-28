@@ -164,18 +164,16 @@ ticketsOffers:
   validThrough: "2017-07-05T23:59"
   disabled: false
  -
-  name: "Student"
-  price: "50"
+  name: "Dog"
+  price: "FREE"
   priceCurrency: "CAD"
   ticketsNumber: "5"
   buyButtonLink: "https://www.eventbrite.ca/e/tbus-conf-2017-tickets-34933673558"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["College/University Attendees", "4 Days, 3 Nights", "Lodging Included"]
+  additionalInfo: "Requires a human be present with you at checking. Failure to be a dog will result in your ticket being cancelled without refund"
+  ticketContentList: ["Are you a dog?", "4 Days, 3 Nights", "Barking Included"]
   validFrom: "2017-05-01T10:00"
   validThrough: "2017-07-05T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:

@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg"}
+    - {name: "TBUS", description: "TBUS", link: "http://tbus.github.io", imageUrl: "google.svg"}
 - 
   group: "Co-organizers"
   elements: 
