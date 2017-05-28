@@ -170,7 +170,7 @@ ticketsOffers:
   ticketsNumber: "5"
   buyButtonLink: "https://www.eventbrite.ca/e/tbus-conf-2017-tickets-34933673558"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a human be present with you at checking. Failure to be a dog will result in your ticket being cancelled without refund"
+  additionalInfo: "Requires a human be present with you at check in. Failure to be a dog will result in your ticket being cancelled without refund"
   ticketContentList: ["Are you a dog?", "4 Days, 3 Nights", "Barking Included"]
   validFrom: "2017-05-01T10:00"
   validThrough: "2017-07-05T23:59"
