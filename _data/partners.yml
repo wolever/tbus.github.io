@@ -1,0 +1,23 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg", width: "120px"}
+    - {name: "TBUS[x]", description: "TBUS[x] - Yeah, we can fix that", link: "https://github.com/TBUS-x", imageUrl: "TBUS-x.svg", width: "120px"}
+- 
+  group: "Information partners"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg"}
+    - {name: "TBUS[x]", description: "TBUS[x] - Yeah, we can fix that", link: "https://github.com/TBUS-x", imageUrl: "TBUS-x.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg"}
+    - {name: "TBUS[x]", description: "TBUS[x] - Yeah, we can fix that", link: "https://github.com/TBUS-x", imageUrl: "TBUS-x.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg"}
+    - {name: "TBUS[x]", description: "TBUS[x] - Yeah, we can fix that", link: "https://github.com/TBUS-x", imageUrl: "TBUS-x.svg"}

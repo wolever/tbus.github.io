@@ -1,0 +1,10 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "TBUS Lviv", description: "TBUS Lviv - Open and volunteer geek community", link: "http://lviv.TBUS.org.ua", imageUrl: "TBUS-lviv.svg"}
+- 
+  group: "Co-organizers"
+  elements: 
+    - {name: "TBUS Lviv", description: "TBUS Kyiv - Open and volunteer geek community", link: "http://kyiv.TBUS.org.ua", imageUrl: "TBUS-kyiv.svg"}
+    - {name: "TBUS Cherkassy", description: "TBUS Cherkassy - Open and volunteer geek community", link: "http://cherkassy.TBUS.org.ua", imageUrl: "TBUS-cherkasy.svg"}
+    - {name: "TBUS Dnipropetrovsk", description: "TBUS Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.TBUS.org.ua", imageUrl: "TBUS-dnipropetrovsk.svg"}
