@@ -4,11 +4,21 @@
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+
+-
+  id: 302
+  title: "1k Fun Run"
+  place: "Island"
+  description: |
+    Bond with your fellow attendees over a 1k fun run around the perimeter of
+    the island.
+
 -
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
+
 -
   id: 001
   title: Implementing the BUNFLF Security Model in Your Organization
