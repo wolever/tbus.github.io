@@ -10,7 +10,7 @@ To install all development dependencies install [Bundler](http://bundler.io/).
 and run next command from root folder:
 
 ```bash
-  bundle install
+    bundle install
 ```  
 
 To start Jekyll run:

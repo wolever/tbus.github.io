@@ -16,13 +16,22 @@
   surname: "Wolever"
   company: "Akindi"
   title: "CTO"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  bio: |
+    <p>
+      David is a Pythonista from Toronto, Canada. He's co-founder of both
+      <a href="https://pycon.ca" target="_blank">PyCon Canada</a> – Canada's
+      regional Python conference – and
+      <a href="https://akindi.com" target="_blank">Akindi.com</a> – a small
+      company that's making multiple-choice bubble sheet tests a bit less
+      terrible. Say hi on Twitter:
+      @<a href="https://twitter.com/wolever" target="_blank">wolever!</a>
+    </p>
   thumbnailUrl: DavidWolever.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+wolever"}
     - {name: "twitter", link: "https://twitter.com/wolever"}
     - {name: "github", link: "https://github.com/wolever"}
+    - {name: "facebook", link: "https://facebook.com/wolever"}
 - 
   id: 5
   name: "Ted"

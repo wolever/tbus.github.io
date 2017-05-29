@@ -20,10 +20,10 @@ So should you also be excited? Well yes... and here's why!
 
 but we've already secured a first batch of experts:
 
-* **Justin Watts** - Test Automation Lead, Loblaw Digitalbr>
-* **David Wolever** - CTO, Akindibr>
+* **Justin Watts** - Test Automation Lead, Loblaw Digital<br>
+* **David Wolever** - CTO, Akindi<br>
 * **Ted Campbell** - Sr. Developer, Mozilla<br>
-* **Katie Kleemola** - Sr. Security Engineer, Ecobees<br>
+* **Katie Kleemola** - Sr. Security Engineer, Ecobee<br>
 
 
 More details will appear in subsequent posts.

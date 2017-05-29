@@ -11,49 +11,103 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: Implementing the BUNFLF Security Model in Your Organization
+  description: |
+    <p>
+      Any modern security practitioner will sing the praises of BUNFLF, and
+      after this presentation you will too. Katie will break town the key
+      benefits and challenges of BUNFLF implementation, including practical
+      tips, an example SWOT analysis, and anecdotes from her own, extensive,
+      career.
+    </p>
+
+    <p>
+      This presentation will assume a basic understanding of security
+      best-practices such as OWASP, DiD, soc-eng, the principle of
+      least-attack-surface-area, and cloud-based service federation.
+    </p>
+  subtype: presentation
+  speakers: [6]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: Python to C++ and Back Again
+  description: |
+    <p>
+      Python and C++ may seem like mortal enemies at first, with a little bit of
+      love and care they can be tricked into playing well together.
+    </p>
+
+    <p>
+      In this session, Ted and David will use Python 3.6, CFFI, and Clang to put
+      together a demo which can’t be missed!
+    </p>
   subtype: presentation
   speakers: [4, 5]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/TBUSlviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
+  title: "Puzzles: an Analytical Approach (panel)"
+  description: |
+    <p>
+      Panelists will discuss their own unique approaches to puzzle-solving, and
+      have a conversation around the applicability of puzzle solving techniques
+      to every day life.
+    </p>
+  subtype: panel
+  speakers: []
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/TBUSlviv/dmytro-danylyk-android-l-animation"
+
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
+  title: Hooping your Way to Success
+  description: |
+    <p>
+      Hard day at work? Stressed by tight deadlines? Not living up to your own
+      expectations? Singer, dancer, and inspirational speaker Jamie
+      "Goldierocks" Joong-Watts will spin you 'round on a whirlwind tour of
+      therapeutic hula-hoop techniques you can use when you're feeling like
+      a square peg in a round hoop.
+    </p>
+
+    <p>
+      Beginners and experts alike will have something to learn from this
+      presentation, and we'll be starting with a through review of the basics
+      (ab-spin, hip continuation flick, bracelet twist, and of course the ankle
+      start) so even first-timers will have no trouble following along.
+    </p>
+
+    <p>
+      BYOH, or borrow one of Jamie's!
+    </p>
+  subtype: presentation
+  speakers: [7]
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/TBUSlviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  title: "Safety: the Giraffe in the Room"
+  description: |
+    <p>
+      Every organization struggles with the health and safety of its
+      resources... but how often are these steps applied only at the bottom,
+      leaving those higher up the metaphorical apricot tree hanging (so to
+      speak).
+    </p>
+
+    <p>
+      In this talk, Ted emphasizes the importance of taking the "giraffe"
+      approach to safety, where visibility and transparency are encouraged
+      and monitored at every level. He gives concrete examples of threats to
+      health and wellness, including physical security, long-term repetitive
+      stress injuries, and changes in neurochemistry (both natural and
+      artificial).
+    </p>
+  subtype: presentation
+  speakers: [5]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/TBUSlviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
